@@ -40,7 +40,7 @@ The cleaned dataset, along with the calculated KPIs, was saved back into a CSV f
 
 ## Requirements
 
-- Python 3.x  
+- Python 3.10  
 - Jupyter Notebook / Google Colab  
 - pandas  
 
